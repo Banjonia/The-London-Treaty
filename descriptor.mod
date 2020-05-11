@@ -3,5 +3,5 @@ tags={
 	"Alternative History"
 	"Gameplay"
 }
-name="The London Treaty"
+name="The London Treaty (DEV)"
 supported_version="1.9.2"
